@@ -202,12 +202,12 @@
               <repository>
 		  <id>deployment</id>
 	          <name>Internal releases</name>
-		      <url>http://13.126.76.116:8081/repository/Nexus-Rel/</url>
+		      <url>http://13.234.122.88:8081/repository/Nexus-Rel/</url>
 	      </repository>
 	      <snapshotRepository>
 		  <id>deployment</id>
-		  <name>2</name>
-		  <url>http://13.126.76.116:8081/repository/MAVEN-NEXUS/</url>
+		  <name>Internal snapshots</name>
+		  <url>http://13.234.122.88:8081/repository/MAVEN-NEXUS/</url>
 	      </snapshotRepository>
 	 </distributionManagement>
 	<name>simple-web-app</name>
